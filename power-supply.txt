@@ -1,0 +1,138 @@
+Corsair RM750e (2023),78.99,ATX,gold,750,Full,Black
+Corsair RM850e (2023),119,ATX,gold,850,Full,Black
+Corsair RM850x (2021),134.99,ATX,gold,850,Full,Black
+Corsair RM1000e (2023),159.99,ATX,gold,1000,Full,Black
+Corsair CX650M (2021),69.98,ATX,bronze,650,Semi,Black
+Corsair RM650 (2023),89.99,ATX,gold,650,Full,Black
+Corsair SF750,169.99,SFX,platinum,750,Full,
+MSI MAG A650BN,67.98,ATX,bronze,650,false,Black
+Gigabyte UD750GM,84.99,ATX,gold,750,Full,Black
+MSI MAG A550BN,59.99,ATX,bronze,550,false,Black
+Thermaltake Smart,44.99,ATX,plus,600,false,
+Corsair RM750x (2021),119.99,ATX,gold,750,Full,Black
+Corsair SF850L,128.99,SFX,gold,850,Full,Black
+MSI MAG A850GL PCIE5,99.99,ATX,gold,850,Full,Black
+MSI MAG A750GL PCIE5,93.99,ATX,gold,750,Full,Black
+Silverstone HELA,623.11,ATX,,2050,Full,Black / White
+Apevia Galaxy,54.99,ATX,gold,650,Semi,Black
+Corsair RM750,129.99,ATX,gold,750,Full,White / Black
+Apevia Prestige,51.99,ATX,gold,600,false,Black
+Corsair CX750M (2021),79.98,ATX,bronze,750,Semi,Black
+SeaSonic FOCUS PLUS 850 Gold,119.99,ATX,gold,850,Full,
+be quiet! Pure Power 12 M,94.9,ATX,gold,750,Full,Black
+Corsair AX1600i,609.99,ATX,titanium,1600,Full,
+Asus TUF Gaming B,50.99,ATX,bronze,450,false,Black
+Corsair AX1200,799,ATX,gold,1200,Full,
+Asus ROG Strix,162.99,ATX,gold,850,Full,White
+Corsair CV650,,ATX,bronze,650,false,Black
+EVGA 500 BR,59.99,ATX,bronze,500,false,
+NZXT C850 (2022),114.99,ATX,gold,850,Full,Black
+Corsair SF1000L,159.96,SFX,gold,1000,Full,Black
+MSI A1000G PCIE5,159.99,ATX,gold,1000,Full,Black
+Corsair HX1200 Platinum,429,ATX,platinum,1200,Full,
+EVGA SuperNOVA 850 GT,124.99,ATX,gold,850,Full,Black
+Corsair CX (2023),59.99,ATX,bronze,550,false,Black
+Corsair CV550,,ATX,bronze,550,false,Black
+MSI MPG A850G PCIE5,129,ATX,gold,850,Full,Black
+EVGA SuperNOVA 1600 T2,799.99,ATX,titanium,1600,Full,
+Lian Li SP850,134,SFX,gold,850,Full,White
+NZXT C750 (2022),94.99,ATX,gold,750,Full,Black
+Lian Li SP850,127.5,SFX,gold,850,Full,Black
+Corsair RMe (2023),169.99,ATX,gold,1200,Full,Black
+Gigabyte UD850GM,104.99,ATX,gold,850,Full,Black
+Lian Li SP,128.01,SFX,gold,750,Full,Black
+Gigabyte P750GM,,ATX,gold,750,Full,Black
+EVGA SuperNOVA 750 GT,109.99,ATX,gold,750,Full,Black
+SeaSonic FOCUS GX,119.99,ATX,gold,850,Full,Black
+MSI MAG A650GL,89.99,ATX,gold,650,Full,Black
+Asus ROG STRIX G,163.08,ATX,gold,1000,Full,Black
+Gigabyte UD1000GM,119.99,ATX,gold,1000,Full,Black
+NZXT C1000 (2022),154.99,ATX,gold,1000,Full,Black
+EVGA 500 W1,54.57,ATX,plus,500,false,
+Corsair CX (2023),69.98,ATX,bronze,650,false,Black
+EVGA 600 GD,83.8,ATX,gold,600,false,Black
+EVGA 600 BR,69.99,ATX,bronze,600,false,
+Asus TUF Gaming 850G,203.89,ATX,gold,850,Full,Black
+Apevia CAPTAIN,31.99,ATX,,550,false,Black
+EVGA SuperNOVA 650 GT,88,ATX,gold,650,Full,Black
+Apevia Prestige,66.98,ATX,gold,800,false,Black
+SeaSonic FOCUS GX,160.34,ATX,gold,750,Full,Black
+Logisys PS480D,16.98,ATX,,480,false,
+MSI MPG A650GF,79.98,ATX,gold,650,Full,Black
+EVGA 700 GD,89.99,ATX,gold,700,false,Black
+Corsair CX (2023),77.99,ATX,bronze,750,false,Black
+NZXT C1200,199.99,ATX,gold,1200,Full,Black
+Corsair RM750 (2019),224.99,ATX,gold,750,Full,Black
+Apevia Galaxy,69.98,ATX,gold,850,Semi,Black
+Silverstone SFX,112.53,SFX,gold,500,Full,
+Gigabyte UD-GM PG5,119.99,ATX,gold,850,Full,White
+Apevia Premier,59.99,ATX,gold,650,Semi,Black
+Gigabyte P450B,54.99,ATX,bronze,450,false,Black
+CoolMax I-500,26.68,ATX,,500,false,
+Gigabyte P650G (US),59.99,ATX,gold,650,false,Black
+EVGA 400 N1,,ATX,,400,false,
+Gigabyte P-B,,ATX,bronze,650,false,Black
+Deepcool PQ850M,,ATX,gold,850,Full,Black
+EVGA 600 W1,64.02,ATX,plus,600,false,
+GameMax GP,,ATX,bronze,650,false,Black
+SeaSonic FOCUS Plus 650 Gold,,ATX,gold,650,Full,
+EVGA 700 BR,79.98,ATX,bronze,700,false,
+EVGA SuperNOVA 850 GM,163.9,SFX,gold,850,Full,Black
+Corsair AX1500i,749,ATX,titanium,1500,Full,
+EVGA GE,80.65,ATX,gold,500,false,Black
+Corsair RM1000x,245,ATX,gold,1000,Full,
+SeaSonic FOCUS Plus 750 Gold,135,ATX,gold,750,Full,
+Asus ROG THOR 1200P,349.99,ATX,platinum,1200,Full,Black
+MSI MPG A750GF,95.34,ATX,gold,750,Full,Black
+Vetroo GV1000,129.99,ATX,gold,1000,Full,White
+ARESGAME AGV,,ATX,bronze,650,false,Black
+Gigabyte P550B,69.19,ATX,bronze,550,false,Black
+Silverstone SX500-G,116.47,SFX,gold,500,Full,
+PowerSpec PS 750BSM,67.98,ATX,bronze,750,Semi,Black
+EVGA GE,99.99,ATX,gold,800,false,Black
+Corsair CV750,,ATX,bronze,750,false,Black
+Deepcool PK650D,,ATX,bronze,650,false,Black
+Gigabyte P850GM,,ATX,gold,850,Full,Black
+SeaSonic FOCUS GX,159.99,ATX,gold,1000,Full,Black
+Deepcool PF500 230V,,ATX,plus,500,false,Black
+Cooler Master V650 SFX GOLD,,SFX,gold,650,Full,Black
+EVGA 650 B5,84.28,ATX,bronze,650,Full,Black
+Corsair SF600,225,SFX,platinum,600,Full,Black
+Corsair RM650x (2021),,ATX,gold,650,Full,Black
+EVGA SuperNOVA 750 G2,,ATX,gold,750,Full,
+Sparkle FSP350-60GNV,69.99,SFX,,350,false,
+Deepcool PX1000G,129.99,ATX,gold,1000,Full,Black
+Montech TITAN GOLD 850W,99.99,ATX,gold,850,Full,Black
+Asus ROG LOKI,,SFX,platinum,1000,Full,Silver / Black
+Deepcool PQ1000M,129.99,ATX,gold,1000,Full,Black
+Deepcool PX850G,104.99,ATX,gold,850,Full,Black
+PowerSpec PS 650BF,55.99,ATX,bronze,650,false,Black
+be quiet! System Power 10,143.69,ATX,gold,850,false,Black
+SeaSonic FOCUS Plus Platinum,175.99,ATX,platinum,850,Full,
+Montech CENTURY MINI,,SFX,gold,750,Full,Black
+Corsair RM750x (2018),169.98,ATX,gold,750,Full,Black
+SeaSonic S12III,78.98,ATX,bronze,650,false,Black
+Corsair CX550 (2017),,ATX,bronze,550,false,
+Corsair RM850x (2018),180.92,ATX,gold,850,Full,Black
+MSI MPG A850GF,132.99,ATX,gold,850,Full,Black
+Silverstone SFX,217.98,SFX,titanium,800,Full,
+EVGA 750 GQ,109.99,ATX,gold,750,Semi,
+Super Flower Leadex,,ATX,platinum,2000,Full,
+EVGA SuperNOVA 850 G3,299.99,ATX,gold,850,Full,
+EVGA 650 BQ,83.89,ATX,bronze,650,Semi,
+EVGA SuperNOVA 1300 GT,237.99,ATX,gold,1300,Full,Black
+EVGA SuperNOVA 750 GM,179.31,SFX,gold,750,Full,Black
+be quiet! System Power 9 500 CM,,ATX,bronze,500,Semi,Black
+Asus TUF Gaming 750G,,ATX,gold,750,Full,Black
+GameMax GX Pro Rampage,159.99,ATX,platinum,1050,Full,White
+Cooler Master V550 SFX GOLD,,SFX,gold,550,Full,Black
+Cooler Master MWE Bronze V2,,ATX,bronze,750,false,Black
+ARESGAME AGV,,ATX,bronze,500,false,Black
+GameMax GX Pro Rampage,119.99,ATX,gold,850,Full,White
+MSI MPG A1000G,179.99,ATX,gold,1000,Full,Black
+Corsair HX1000 Platinum,390,ATX,platinum,1000,Full,
+Cooler Master MWE Bronze V2,,ATX,bronze,650,false,Black
+KOLINK Classic Power,,ATX,bronze,700,false,Black / Red
+Corsair AX1200i,657.73,ATX,platinum,1200,Full,
+SeaSonic S12III,63.98,ATX,bronze,500,false,Black
+SeaSonic PRIME PX-1300,499.99,ATX,platinum,1300,Full,Black

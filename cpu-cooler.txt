@@ -1,0 +1,66 @@
+NZXT Kraken 240,127.99,"500,1800","17.9,30.6",Black,240
+ARCTIC Liquid Freezer II 360,180.58,"800,2000",,Black,360
+NZXT Kraken 240 RGB,172.99,"500,1800","17.9,30.6",White,240
+NZXT Kraken 360,179.99,"500,1800","17.9,30.6",Black,360
+Deepcool LS720 SE WH,97.99,"500,2250","28.2,32.9",White,360
+Deepcool LS520 SE,86.41,"500,2250","28.2,32.9",Black,240
+Noctua NH-D15,109.95,"300,1500","19.2,24.6",,
+Deepcool AK620 ZERO DARK,63.98,"500,1850",28,Black,
+Deepcool AK400,33.98,"500,1850",29,Black / Silver,
+Deepcool LT720,99.99,"500,2250",32.9,Black / Gray,360
+ARCTIC Liquid Freezer II 240,75.45,"200,1800",,Black,240
+Deepcool LS720 SE,106.76,"500,2250","28.2,32.9",Black,360
+ID-COOLING SE-214-XT,17.98,"500,1500","13.8,30.5",Black,
+be quiet! Pure Rock 2 Black,34.9,1500,"19.1,26.8",Black,
+AMD Wraith Prism,,2800,42,,
+Lian Li Galahad II Trinity SL-INF,219.06,2100,29,White,360
+Deepcool AK620,54.99,"500,1850",28,Black / Silver,
+NZXT Kraken 360 RGB,219.99,"500,1800","17.9,30.6",White,360
+Deepcool AK620,64.98,"500,1850",28,White,
+NZXT Kraken 240 RGB,160.99,"500,1800","17.9,30.6",Black,240
+Intel E97379-001,9.13,"1200,2800",22,Silver / Black,
+Asus ROG Ryujin III ARGB,339.99,"600,2200",36.45,Black,360
+ARCTIC Liquid Freezer II 280,136.44,"200,1700",,Black,280
+Lian Li Galahad II Trinity SL-INF,199.99,2100,29,Black,360
+Deepcool AK620 DIGITAL,79.98,"500,1850",28,Black,
+Asus ROG RYUJIN II,499,"450,2000",29.7,Black,360
+Deepcool AK400,35.98,"500,1850",29,White,
+Deepcool LS720,103.98,"500,2250",32.9,Black,360
+Deepcool LT520,97.99,"500,2250",32.9,Black / Gray,240
+Deepcool LT720 WH,120.99,"500,2250",32.9,White,360
+ARCTIC Liquid Freezer II 420,92.39,"200,1700",,Black,420
+Corsair iCUE H100x RGB ELITE,99.99,1500,"7,28",Black,240
+Lian Li Galahad II Trinity,119,2450,35.4,White,360
+Deepcool AK400 DIGITAL,49.99,"500,1850",28,Black,
+NZXT Kraken 360 RGB,219.99,"500,1800","17.9,30.6",Black,360
+be quiet! Pure Rock Slim 2,17.9,,"13.1,25.4",Black / Silver,
+NZXT T120 RGB,34.99,"500,1800","17.2,27.5",White,
+Deepcool AK500 ZERO DARK,54.99,"500,1850","25.9,31.5",Black,
+Noctua NH-L9a-AM4,44.95,"600,2500","14.8,23.6",Brown,
+ID-COOLING FROSTFLOW X,54.99,"700,1800","18,35.2",,240
+be quiet! Dark Rock Pro 5,79.9,"1300,2000","8.9,23.3",Black,
+NZXT Kraken 280,147.99,"500,1500","19.4,32.1",Black,280
+ID-COOLING SE-214-XT,17.98,"500,1500","13.8,30.5",White,
+be quiet! Dark Rock 4,74.9,1400,,Black,
+NZXT T120 RGB,34.99,"500,1800","17.2,27.5",Black,
+Deepcool ASSASSIN IV,99.99,"500,1700","22.6,29.3",Black,
+Cooler Master Hyper 212 (2023),29.99,"690,2500",32.8,Black,
+EK Nucleus AIO CR360 Dark,129.99,"550,2300",36,Black,360
+MSI MAG CORELIQUID 360R V2,115,"500,2000","14.3,34.3",Black,360
+Corsair iCUE LINK H150i RGB,204.99,"480,2400",,Black,360
+NZXT Kraken 120,84.99,"500,2000","21,36",Black,120
+Deepcool AG400,21.99,"500,2000",31.6,Black / Silver,
+ARCTIC Alpine 23,9.16,"100,2000",,White / Black,
+Deepcool LS520 SE WH,89.99,"500,2250","28.2,32.9",White,240
+Lian Li Galahad II LCD SL-INF,249.99,,29,Black,360
+Asus ROG STRIX LC II ARGB,154.99,"800,2500",37.6,Black,360
+NZXT Kraken Z73 RGB,,"500,1500","22,33",White / Black,360
+NZXT Kraken Z73,302.99,"500,1800","21,36",Black,360
+Lian Li Galahad II LCD SL-INF,335.4,,29,White,360
+Scythe Fuma 3,49.99,"200,1500","4,28.6",Black / Silver,
+Corsair H150i PRO,,1600,25,,360
+Corsair iCUE LINK H150i LCD,284.99,"480,2400",,White,360
+Noctua NH-U12A,119.95,"450,2000","18.8,22.6",Brown,
+Deepcool GAMMAXX AG400 ARGB,24.99,"500,2000",31.6,White,
+Noctua NH-U9S,59.95,"400,2000","16.3,22.8",,
+be quiet! Pure Loop 2 FX,150.82,,"8,34",Black,360
